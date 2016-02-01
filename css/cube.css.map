@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "cube.css",
+  "sources": [
+    "../scss/cube.scss"
+  ],
+  "sourcesContent": [],
+  "mappings": "AAAA,IAAI,AAAC,CACH,UAAU,CAAE,UAAW,CADnB,AAGQ,CAAC,CAAC,CAAC,AAAA,OAAO,CAAC,CAAC,AAAA,MAAM,AAAX,CACnB,UAAU,CAAE,OAAQ,CADA",
+  "names": []
+}

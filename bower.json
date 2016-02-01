@@ -1,0 +1,7 @@
+{
+  "name": "cube",
+  "dependencies": {
+      "normalize-css": "latest"
+  },
+  "private": true
+}
